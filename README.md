@@ -1,4 +1,5 @@
-# flutter_application_1
+# Twitt3r
+Twitt3r is an application that allows users to interact with the Twitter platform on a decentralized network using web 3 technologies.
 
 A new Flutter project.
 
